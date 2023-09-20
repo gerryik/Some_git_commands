@@ -11,8 +11,8 @@
 ## git remote -v 
 - to get clone link and push link and below is the output 
     
-       origin	ssh://git@storegit.apple.com:4443/project/repo.git (fetch)
-       origin	ssh://git@storegit.apple.com:4443/project/repo.git (push)
+       origin	ssh://git@github.com/gerryik/argocd.git (fetch)
+       origin	ssh://github.com/gerryik/argocd.git.git (push)
        
 ## git checkout -b branch_name 
 - To create branch from files which are there in present branch 
